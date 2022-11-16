@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659251844263",
+    "project_id": "chrome-oven-365201",
+    "storage_bucket": "chrome-oven-365201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659251844263:android:17f033bbd6e389031eb782",
+        "android_client_info": {
+          "package_name": "com.example.objectrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659251844263-tmepef6em47tanokdpi8d5s0faollj81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.objectrealtime",
+            "certificate_hash": "7df1fff6cdd885d6e81f1f2646cddb78d524487e"
+          }
+        },
+        {
+          "client_id": "659251844263-f3jnkrmg048i3ottmsm8eulp1mimrqpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEHAVZrNS9bgFCHwYNtSTQsmWuzeKaOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659251844263-f3jnkrmg048i3ottmsm8eulp1mimrqpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
